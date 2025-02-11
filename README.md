@@ -3,8 +3,6 @@ Flutter application contains admin information.
 
 - This application only works on web and Android devices.
 
-- The main icon is the same as Flutter's default (I will change it as soon as possible).
-
 - This application is only a test, and it will improve in the future.
 
 - There is a slight problem with the url_launcher package, and currently it's not working, but I will try to fix that so I won't delete the codes.
